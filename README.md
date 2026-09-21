@@ -22,3 +22,4 @@ The program stores its persistent data in `data/*.csv`. It includes a preloaded 
 
 The remaining lightweight modules use the reusable `TableService` so the project stays small enough to understand in a viva.
 # Care-
+# Care-
